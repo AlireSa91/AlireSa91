@@ -2,7 +2,7 @@
 - 👀 I’m interested in DeFi and web 3
 - 🌱 I’m currently learning DeFi and web 3 fundamentals
 - 💞️ I’m looking to collaborate on anything that fascinates me!
-- 📫 How to reach me ali.aabed@gmail.com
+- 📫 How to reach me no way
 
 <!---
 AlireSa91/AlireSa91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
